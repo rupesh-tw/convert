@@ -1,0 +1,32 @@
+STOCK MARKET,Unnamed: 1,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5
+S. No.: ,Module:,Sub- Module:,Task:,Backend Estimation,Frontend Estimations 
+,,,, in Hrs:,in Hrs:
+,,,,,
+1,User Module,Register,create register api  ,16,8
+,,Login,create login api using  jwt Autentication,8,8
+,,change password using send email,email functionality ,16,4
+2,home tab,Graphicle-representaion,"calculations about stocks and plot in graphs
+Render data on tables also in a graph 
+Integrate all apis that is used on home page",136,200
+3,News,third part api  for news and blogs,fetching news about companies stock ,104,40
+4,screener,stock details and stock filters on behalf of various parameteres,"creating the apis and apply multiple filters for stocks and its details
+Managing data according all tabs
+Display UI with multiple filter
+Integrating all api and web socket for real time data
+Creating Maps and graph for displaying real time data",176,400
+5,Map,map -location using third-party Api,"Show maps using third part Api 
+Creating side bar and maps UI
+Managing search bar and Cursor UI when moves on maps",136,300
+6,Groups,"performance by groups with various timestamps weekly,monthly,yearly",create Api for stocks of multiple groups like healthcare etc and apply filter on that .,120,250
+7,portfolio,collection of details about stocks,"creat api for user portfolio. 
+Mangaing table UI for view, edit, create",40,80
+8,insiders,insiders about  top owners trading latest week,"Displaying data according trading, filter
+Integrating all apis",80,40
+9,futures,"Quotes,performance,charts",create api  for fetching quotes and  calculations of stock performance and creating charts.,160,250
+10,forex,"Quotes,performance,charts",create api  for fetching quotes and  calculations of different currencies performance and creating charts.,160,250
+11,Cryptocurrency,"Quotes,performance,charts",create api  for fetching quotes and  calculations of different crypto-currencies performance and creating charts.,184,260
+12,finviz subscriptions,"monthly,yearly","create Api for subscription as per monthly,yearly integration  of payment gate-way",160,150
+13,settings,"homepage settings,chart color setting,screen settings",create api for user modification settings  ,152,80
+14,search -bar,"serach of company,stockand ticker","create search Api by using company name ,stock name or ticker.",48,120
+,,,contingency hours (10 - 15 % of total hours ),180,300
+,,,total hours,1696,2740
